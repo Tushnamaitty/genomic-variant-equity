@@ -1,0 +1,4 @@
+method,roc_auc,pr_auc,brier_score
+Uncalibrated,0.7406,0.0346,0.18714
+Platt,0.7413,0.0333,0.011037
+Isotonic,0.7377,0.0358,0.011093

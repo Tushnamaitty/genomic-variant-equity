@@ -1,0 +1,47 @@
+feature,mean_abs_shap
+numeric__evaluation_age_days,0.8057629
+numeric__AN_joint_sas,0.49226373
+numeric__AN_joint_nfe,0.2693839
+"categorical__review_status_criteria provided, multiple submitters, no conflicts",0.25471097
+numeric__af_difference_sas_minus_nfe,0.09476302
+numeric__AF_joint_sas,0.08228976
+categorical__variant_type_SNV,0.07495922
+numeric__AF_joint_nfe,0.070766926
+numeric__abs_af_difference,0.06838887
+numeric__AC_joint_nfe,0.066056475
+categorical__substitution_C>A,0.05566003
+numeric__pvalue,0.03798861
+categorical__substitution_T>G,0.037595477
+numeric__multi_gene,0.033121858
+numeric__sas_af_missing,0.03101698
+numeric__odds_ratio,0.028241796
+categorical__substitution_C>T,0.026675805
+categorical__substitution_C>G,0.024460444
+categorical__substitution_A>T,0.017668508
+categorical__substitution_A>C,0.01708183
+categorical__substitution_G>A,0.015897572
+categorical__variant_type_other,0.012998314
+numeric__length_change,0.012882817
+categorical__review_status_no assertion criteria provided,0.0053430423
+numeric__population_test_missing,0.003954426
+numeric__gnomad_matched,0.0034673365
+numeric__ref_length,0.0024542122
+numeric__alt_length,0.0018557786
+categorical__substitution_G>C,0.0018110818
+numeric__AC_joint_sas,0.0017817385
+categorical__substitution_G>T,0.0015224199
+numeric__evaluation_date_missing,0.0
+categorical__substitution_A>G,0.0
+"categorical__review_status_criteria provided, single submitter",0.0
+numeric__nfe_af_missing,0.0
+categorical__variant_type_insertion,0.0
+categorical__variant_type_deletion,0.0
+categorical__substitution_T>A,0.0
+categorical__substitution_T>C,0.0
+categorical__substitution_not_snv,0.0
+categorical__comparison_category_insufficient_data,0.0
+categorical__comparison_category_observed_zero_both,0.0
+categorical__comparison_category_ref_equals_alt_excluded,0.0
+categorical__comparison_category_reference_N_excluded,0.0
+categorical__comparison_category_unmatched,0.0
+categorical__comparison_category_valid_comparison,0.0

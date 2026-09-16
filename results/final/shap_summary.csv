@@ -1,0 +1,6 @@
+finding,result
+Strongest overall predictor,evaluation_age_days
+Important full-model population features,"AN_joint_sas, AN_joint_nfe, AF differences"
+Important non-population feature,ClinVar review_status
+Population-blind strongest predictor,evaluation_age_days
+Largest population-blind SAS/NFE SHAP difference,review_status

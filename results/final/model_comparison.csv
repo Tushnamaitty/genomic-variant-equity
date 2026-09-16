@@ -1,0 +1,4 @@
+model,roc_auc,pr_auc,precision_at_0.5,recall_at_0.5,f1_at_0.5
+Logistic Regression,0.649,0.0171,0.0173,0.6842,0.0338
+XGBoost Full,0.7348,0.0296,0.0245,0.5965,0.0472
+XGBoost Population-Blind,0.7406,0.0346,,,

@@ -1,0 +1,27 @@
+feature,mean_abs_shap
+numeric__evaluation_age_days,0.93603843
+"categorical__review_status_criteria provided, multiple submitters, no conflicts",0.2659606
+categorical__variant_type_SNV,0.08700617
+categorical__substitution_C>T,0.06493504
+numeric__multi_gene,0.05621741
+categorical__substitution_C>A,0.05100926
+categorical__substitution_C>G,0.038554564
+numeric__length_change,0.033132665
+categorical__substitution_A>C,0.03086985
+categorical__substitution_T>G,0.025419526
+categorical__substitution_A>T,0.021598566
+categorical__variant_type_other,0.020768994
+categorical__review_status_no assertion criteria provided,0.014808794
+categorical__substitution_G>T,0.011699362
+numeric__alt_length,0.007040995
+categorical__substitution_T>A,0.0062567936
+numeric__ref_length,0.0048674713
+numeric__evaluation_date_missing,0.0041282084
+categorical__substitution_G>C,0.0040292745
+categorical__substitution_A>G,0.0037666452
+categorical__substitution_G>A,0.0027047496
+categorical__substitution_T>C,0.002076177
+"categorical__review_status_criteria provided, single submitter",0.0
+categorical__variant_type_deletion,0.0
+categorical__variant_type_insertion,0.0
+categorical__substitution_not_snv,0.0
